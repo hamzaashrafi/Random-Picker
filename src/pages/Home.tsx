@@ -153,7 +153,7 @@ const Home = () => {
             <span className="text-sm font-medium text-primary">Lunch Picker</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-            Who's Paying? 🍽️
+            Who's dasdsadsadsa? 🍽️
           </h1>
           <p className="text-muted-foreground text-lg max-w-md mx-auto">
             Aaj kaun payment karega? Random selection se decide karo!
