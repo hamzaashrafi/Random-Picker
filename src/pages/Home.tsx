@@ -13,7 +13,7 @@ interface Person {
   is_present: boolean;
 }
 
-const Index = () => {
+const Home = () => {
   const [people, setPeople] = useState<Person[]>([]);
   const [newName, setNewName] = useState("");
   const [selectedPerson, setSelectedPerson] = useState<string | null>(null);
@@ -291,4 +291,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Home;
